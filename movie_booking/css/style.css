@@ -1,0 +1,103 @@
+body {
+
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin: 0;
+    align-content: center;
+    padding: 20px;
+    background-color: rgb(91, 120, 153);
+
+}
+
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+    margin: auto;
+    padding: auto;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+
+}
+h2{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-weight: bold;
+} 
+h3,h4{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    margin: auto;
+    padding: auto;
+    
+    text-align: center;
+}
+
+
+
+form {
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+input,select, button {
+
+    margin: auto;
+    padding: auto;
+    display: block;
+    width: auto;
+
+}
+
+
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #f9f9f9;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 6px;
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
